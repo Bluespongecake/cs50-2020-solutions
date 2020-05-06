@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//max mccormack 2020
 // Convert image to grayscale
 void grayscale(int height, int width, RGBTRIPLE image[height][width])
 {
