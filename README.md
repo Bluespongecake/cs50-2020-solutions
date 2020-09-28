@@ -5,6 +5,6 @@ Read the academic honesty agreement before looking.
 
 My personal favorites:
 
-Speller.c and dictionary.c
-dna.py
+<p> Speller.c and dictionary.c </p>
+<p> dna.py </p>
 filters.c and helpers.c
