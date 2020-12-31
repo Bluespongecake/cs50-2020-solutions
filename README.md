@@ -2,7 +2,7 @@
 My Solutions to cs50 2020
 
 
-https://cs50.harvard.edu/x/2020/tracks/web/finance/
+https://cs50.harvard.edu/x/2020/
 
 
 All are 100% solutions
